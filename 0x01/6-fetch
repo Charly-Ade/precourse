@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that fetches changes from git
+
+git fetch remote address 
