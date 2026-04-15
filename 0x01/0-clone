@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that clones  respository
+
+git clone <respository_url>
