@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that pushes changes to git
+
+git push
