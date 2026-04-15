@@ -1,0 +1,1 @@
+shell is a script thst is used to perform a task or command in a system
