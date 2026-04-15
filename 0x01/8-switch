@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that switches brances to git
+
+git checkout <branch name>
