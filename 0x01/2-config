@@ -1,0 +1,5 @@
+#!/usr/bin/sh
+# a script that configures git to accept your name and email
+
+git config --global user.email "your email"
+git config --global user.name "your name "
