@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that commit changes to git 
+
+git commit -m "your message"
