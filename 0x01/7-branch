@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that creates a branch in git
+
+git branch <branch_name>
