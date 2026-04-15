@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that adds changes to git
+
+git add <file_name>
