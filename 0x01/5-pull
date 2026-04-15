@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a script that pull changes from git
+
+git pull
